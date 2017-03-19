@@ -18,3 +18,8 @@ ul {
 li {
     float: left;
 }
+
+a {
+    text-decoration: none;
+    line-height: 2.2;
+}
