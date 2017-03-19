@@ -11,18 +11,23 @@ body {
     background-color: transparent
     position: fixed;
     top: 0;
-    width: 100%;   
+    width: 100%;
+    text-align: center;
+    list-style: none;
 }
 
 .navbar a {
-    float: left;
-    display: block;
+    display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 24px;
     font-family: "Josefin Sans", sans-serif;
+}
+
+.navbar a:hover {
+    color: #4dbbcf;
 }
 
 .heading {
@@ -32,26 +37,48 @@ body {
 }
 
 .main {
-    margin-top: 16px;
-    
 }
 
-.video {
+video {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);  
 }
 
-.about {
+#about {
     height:784px;
     color: white;
+    padding: 20px;
     text-align: center;
     font-family: "Helvetica", sans-serif;
     display: block;   
 }
 
-.home {
+h2 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 36pt;
+}
+
+#home {
     height: 784px;
     width: 100%;
+}
+
+#gallery {
+    height: 784px;
+    width: 100%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: block;   
+}
+
+#map {
+    height: 784px;
+    width: 100%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: block;
 }
