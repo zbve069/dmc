@@ -1,25 +1,17 @@
 body {
     font-family: sans-serif;
-    background-color: whitesmoke;
+    background-color: white;
     text-align: center;
     margin: 0px;
     padding: 0px;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: whitesmoke;
-    text-align: left;
-}
-
-li {
+.topnav a {
     float: left;
-}
-
-a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    line-height: 2.2;
+    font-size: 17px;
 }
