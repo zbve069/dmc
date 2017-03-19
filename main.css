@@ -55,6 +55,12 @@ video {
     display: block;   
 }
 
+#about p {
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+
 h2 {
     font-family: "Josefin Sans", sans-serif;
     font-size: 36pt;
