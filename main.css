@@ -1,6 +1,7 @@
 body {
     font-family: sans-serif;
-    background-color: white;
+    background-image: url("background.jpg") ;
+    background-size: cover;
     text-align: center;
     margin: 0px;
     padding: 0px;
@@ -9,11 +10,12 @@ body {
 .topnav a {
     float: left;
     display: block;
-    color: black;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 24px;
+    font-family: "Josefin Sans", sans-serif;
 }
 
 .heading {
@@ -22,6 +24,8 @@ body {
     float: none;
     padding: inherit;
     margin: auto;
+    font-family: "Josefin Sans", sans-serif;
+    
 }
 
 .video {
