@@ -15,6 +15,7 @@ body {
     width: 100%;
     text-align: center;
     list-style: none;
+    z-index: 100;
 }
 
 .navbar a {
