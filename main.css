@@ -130,14 +130,9 @@ h2 {
 .links {}
 
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 20px;
-    text-align: center;
+    padding: 10px;
     text-decoration: none;
-    margin: 5px 2px;
-    border-radius: 50%;
-    float:right;
+    float: right;
 }
 
 .fa:hover {
@@ -145,19 +140,17 @@ h2 {
 }
 
 .fa-twitter {
-    background-color: deepskyblue;
     color: white;
 }
 
 .fa-instagram {
-    background-color: lightpink;
     color: white;
 }
 
 .fa-youtube {
-    background-color: red;
     color: white;
 }
+
 
 .gallery {
     margin: 5px;
