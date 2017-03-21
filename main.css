@@ -167,6 +167,18 @@ h2 {
     color: white;
 }
 
+.fa-twitter:hover {
+	color:#00aced;
+}
+
+.fa-instagram:hover{
+	color:#fccc63;
+}
+
+.fa-youtube:hover{
+	color:#e52d27;
+}
+
 .socialmedia{
  	overflow: hidden;
  	background-color: transparent;
