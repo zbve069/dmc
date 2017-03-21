@@ -52,12 +52,13 @@ body {
 }
 
 #about {
-    height:784px;
+    height:600px;
     color: white;
     padding: 20px;
     text-align: center;
     font-family: "Helvetica", sans-serif;
-    display: block;   
+    display: block;
+    padding-top:100px;   
 }
 
 #about p {
@@ -82,7 +83,8 @@ h2 {
     color: white;
     padding: 20px;
     text-align: center;
-    display: block;   
+    display: block;  
+    padding-top:100px; 
 }
 
 #map {
@@ -92,6 +94,7 @@ h2 {
     padding: 20px;
     text-align: center;
     display: block;
+    padding-top:100px;
 }
 
 .button {
@@ -191,4 +194,9 @@ h2 {
     margin: auto;
     display: block;
 
+}
+
+.mapImg{
+	padding-top:40px;
+	margin:auto:
 }
