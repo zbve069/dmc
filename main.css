@@ -8,7 +8,10 @@ body {
 
 .navbar {
     overflow: hidden;
-    background-color: #181818;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     position: fixed;
     top: 0;
     height: 120px;
@@ -114,7 +117,19 @@ h2 {
 }
 
 #mikayla {
-    background-image: url("Portrait-0058_retouched.jpg");
+    background-image: url("");
+}
+
+#bunny{
+    
+}
+
+#alex{
+    
+}
+
+#beth {
+    
 }
 
 .button:hover {
