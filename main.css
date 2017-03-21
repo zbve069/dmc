@@ -131,7 +131,7 @@ h2 {
 
 .fa {
     padding: 20px;
-    font-size: 30px;
+    font-size: 50px;
     width: 20px;
     text-align: center;
     text-decoration: none;
@@ -151,6 +151,11 @@ h2 {
 
 .fa-instagram {
     background-color: lightpink;
+    color: white;
+}
+
+.fa-youtube {
+    background-color: red;
     color: white;
 }
 
